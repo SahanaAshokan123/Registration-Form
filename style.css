@@ -1,0 +1,20 @@
+*{
+    font-family:arial;
+    }
+    body{
+    background:url(back.jpg)no-repeat center center/cover;
+    }
+    .container{
+        display:flex;
+        flex-direction:column;
+        height:150px;
+        width:400px;
+        border:3px solid black;
+        align-items:center;
+        justify-content: left; 
+        margin:auto;
+        margin-top:100px;
+        background-color:rgba(37, 108, 117, 0.5);
+        box-shadow:inset -8px -8px rgba(14, 0, 11, 0.5);
+        border-radius:35px;
+        }
